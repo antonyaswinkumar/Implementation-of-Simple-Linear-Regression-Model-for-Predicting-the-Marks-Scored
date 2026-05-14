@@ -12,8 +12,7 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Create a dataset and print it using the pandas library
 3. Split the dataset as x and y and also split it for training and testing using train_test_split() function
 4. Create and train the model
-5. Make predictions and also plot the graph for the output
-6. 
+5. Make predictions and also plot the graph for the output 
 
 ## Program:
 ```
